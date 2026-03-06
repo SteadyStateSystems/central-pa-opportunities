@@ -1,9 +1,9 @@
 CentralPA Opportunity Radar — Pro Digest
-Generated: 3/4/2026, 2:34:03 PM
+Generated: 3/6/2026, 6:54:45 AM
 
 1) [STRONG] IT Managed Services RFP
-   Source: Dauphin County | Score: 63.3
-   Deadline: 2026-03-20 (16d)
+   Source: Dauphin County | Score: 70.3
+   Deadline: 2026-03-20 (14d)
    Category: it_services
    Location: Harrisburg, PA
    Summary: County seeks managed IT support vendor
@@ -11,7 +11,7 @@ Generated: 3/4/2026, 2:34:03 PM
 
 2) [STRONG] Community Facility Improvement Grant
    Source: PA DCED | Score: 60
-   Deadline: 2026-04-15 (42d)
+   Deadline: 2026-04-15 (40d)
    Category: community
    Location: Central PA
    Summary: Funding for facility upgrades
@@ -143,26 +143,26 @@ Generated: 3/4/2026, 2:34:03 PM
    Summary: Potential funding/program opportunity from PA DCED source page
    Link: https://dced.pa.gov/programs/multimodal-transportation-fund/
 
-21) [OPTIONAL] Shapiro Administration Highlights Need to Build More Housing, Reduce Costs, ... March 2, 2026
+21) [OPTIONAL] Shapiro Administration Highlights Budget Proposal to Support Pennsylvania� ... March 5, 2026
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/newsroom/shapiro-administration-highlights-budget-proposal-to-support-pennsylvanias-innovation-economy-during-tour-of-x-hab-3d-in-state-college/
+
+22) [OPTIONAL] Shapiro Administration Highlights Need to Build More Housing, Reduce Costs, ... March 2, 2026
    Source: PA DCED | Score: 40.5
    Category: grant
    Location: Pennsylvania
    Summary: Potential funding/program opportunity from PA DCED source page
    Link: https://dced.pa.gov/newsroom/shapiro-administration-highlights-need-to-build-more-housing-reduce-costs-and-create-opportunity-for-every-pennsylvanian-during-tour-of-downtown-reading/
 
-22) [OPTIONAL] Governor Shapiro Unveils Pennsylvania’s First-Ever Housing Action Plan to ... February 12, 2026
+23) [OPTIONAL] Governor Shapiro Unveils Pennsylvania’s First-Ever Housing Action Plan to ... February 12, 2026
    Source: PA DCED | Score: 40.5
    Category: grant
    Location: Pennsylvania
    Summary: Potential funding/program opportunity from PA DCED source page
    Link: https://dced.pa.gov/newsroom/governor-shapiro-unveils-pennsylvanias-first-ever-housing-action-plan-to-build-more-housing-reduce-costs-and-create-opportunity-for-every-pennsylvanian/
-
-23) [OPTIONAL] What Pennsylvania Leaders Are Saying About Governor Shapiro’s 2026-27 Pro ... February 4, 2026
-   Source: PA DCED | Score: 40.5
-   Category: grant
-   Location: Pennsylvania
-   Summary: Potential funding/program opportunity from PA DCED source page
-   Link: https://dced.pa.gov/newsroom/what-pennsylvania-leaders-are-saying-about-governor-shapiros-2026-27-proposed-budget-that-builds-on-three-years-of-progress-cuts-costs-creates-opportunity-strengthens-public-safety-and-fu/
 
 24) [OPTIONAL] Opportunities
    Source: Dauphin County | Score: 40.5

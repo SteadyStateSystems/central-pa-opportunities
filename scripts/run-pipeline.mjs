@@ -1,10 +1,15 @@
 import { execSync } from 'node:child_process';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const root = path.resolve(process.cwd(), 'centralpa-opportunity-radar');
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const root = path.resolve(__dirname, '..');
+
+const preferredShell = process.env.ComSpec || 'powershell.exe';
 const run = (cmd) => {
   console.log(`> ${cmd}`);
-  execSync(cmd, { stdio: 'inherit', cwd: root, shell: true });
+  execSync(cmd, { stdio: 'inherit', cwd: root, shell: preferredShell });
 };
 
 run('node scripts/collect.mjs');
