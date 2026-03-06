@@ -4,8 +4,12 @@ import path from 'node:path';
 const root = path.resolve(process.cwd());
 const scoredPath = path.join(root, 'data', 'opportunities.scored.json');
 const outPath = path.join(root, 'web', 'index.html');
+const publicCfgPath = path.join(root, 'config.public.json');
 
 const items = JSON.parse(await fs.readFile(scoredPath, 'utf8'));
+const publicCfg = JSON.parse(await fs.readFile(publicCfgPath, 'utf8').catch(() => '{"publicBaseUrl":"","subscribeEndpoint":"","brandName":"CentralPA Opportunity Radar"}'));
+const brandName = publicCfg.brandName || 'CentralPA Opportunity Radar';
+const subscribeEndpoint = publicCfg.subscribeEndpoint || '';
 
 const rows = items.map(x => `
   <tr data-tier="${(x.tier || '').toLowerCase()}" data-source="${String(x.source || '').toLowerCase()}" data-title="${String(x.title || '').toLowerCase()}">
@@ -24,7 +28,7 @@ const html = `<!doctype html>
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>CentralPA Opportunity Radar</title>
+  <title>${brandName}</title>
   <style>
     body{font-family:Arial,sans-serif;margin:20px;background:#0f1115;color:#e8ebf0}
     h1{margin-top:0}
@@ -39,7 +43,7 @@ const html = `<!doctype html>
   </style>
 </head>
 <body>
-  <h1>CentralPA Opportunity Radar</h1>
+  <h1>${brandName}</h1>
   <div class="meta">
     <span class="pill">Items: ${items.length}</span>
     <span class="pill">Last Updated: ${generatedAt.toLocaleString()}</span>
@@ -179,6 +183,14 @@ const html = `<!doctype html>
 
     const form = document.getElementById('subscribeForm');
     const status = document.getElementById('subStatus');
+    const subscribeEndpoint = ${JSON.stringify(subscribeEndpoint)};
+
+    if (!subscribeEndpoint) {
+      if (status) status.textContent = 'Subscribe is not configured yet.';
+      const btn = form?.querySelector('button[type="submit"]');
+      if (btn) btn.disabled = true;
+    }
+
     form?.addEventListener('submit', async (e) => {
       e.preventDefault();
       const email = document.getElementById('subEmail')?.value?.trim();
@@ -186,7 +198,7 @@ const html = `<!doctype html>
       if (!email) return;
       status.textContent = 'Submitting...';
       try {
-        const res = await fetch('https://adjusted-bluejay-gratefully.ngrok-free.app/radar-subscribe', {
+        const res = await fetch(subscribeEndpoint, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json', 'ngrok-skip-browser-warning': 'true' },
           body: JSON.stringify({ email, tier })

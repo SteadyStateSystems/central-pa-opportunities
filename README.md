@@ -12,13 +12,16 @@ Automation-first opportunity intelligence for Central PA:
 
 ## Local Run
 ```powershell
-node scripts\collect.mjs
-node scripts\score.mjs
-node scripts\build-web.mjs
-node scripts\build-feeds.mjs
-node scripts\digest.mjs
+node scripts\run-pipeline.mjs
+node scripts\check-go-live.mjs
 ```
 Then open `web/index.html`.
+
+## Public config
+Edit `config.public.json` for deployment-specific values:
+- `brandName`
+- `subscribeEndpoint` (leave empty to disable subscribe form safely)
+- `publicBaseUrl` (reserved for future absolute URL output)
 
 ## Published feed artifacts
 - `web/feed.free.json`

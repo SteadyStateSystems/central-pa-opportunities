@@ -15,4 +15,10 @@ const run = (cmd) => {
 run('node scripts/collect.mjs');
 run('node scripts/score.mjs');
 run('node scripts/build-web.mjs');
+run('node scripts/build-feeds.mjs');
 run('node scripts/digest.mjs');
+run('node scripts/build-outbound.mjs');
+run('node scripts/subscribers-report.mjs');
+run('node scripts/build-run-summary.mjs');
+run('node scripts/build-health-page.mjs');
+run('node scripts/qa-validate.mjs');

@@ -9,8 +9,8 @@ C:\Users\asshole\Desktop\centralpa-opportunity-radar\run-radar-pipeline.bat
 2) Verify health artifacts:
 - `data/run-summary.json`
 - `data/subscribers.report.json`
-- Public: `https://steadystatesystems.github.io/Dispatch/opportunity-radar/status.json`
-- Public: `https://steadystatesystems.github.io/Dispatch/opportunity-radar/health.html`
+- Public (GitHub Pages once enabled): `https://steadystatesystems.github.io/central-pa-opportunities/status.json`
+- Public (GitHub Pages once enabled): `https://steadystatesystems.github.io/central-pa-opportunities/health.html`
 
 ## B) Subscriber queue operations
 1) List pending:
@@ -59,7 +59,7 @@ C:\Users\asshole\Desktop\centralpa-opportunity-radar\send-test-email.bat you@exa
 - `invoice.payment_failed`
 
 ## E) Public endpoints
-- Dashboard: `https://steadystatesystems.github.io/Dispatch/opportunity-radar/`
-- Free JSON: `https://steadystatesystems.github.io/Dispatch/opportunity-radar/feed.free.json`
-- Free RSS: `https://steadystatesystems.github.io/Dispatch/opportunity-radar/feed.free.rss.xml`
-- Health: `https://steadystatesystems.github.io/Dispatch/opportunity-radar/health.html`
+- Dashboard: `https://steadystatesystems.github.io/central-pa-opportunities/`
+- Free JSON: `https://steadystatesystems.github.io/central-pa-opportunities/feed.free.json`
+- Free RSS: `https://steadystatesystems.github.io/central-pa-opportunities/feed.free.rss.xml`
+- Health: `https://steadystatesystems.github.io/central-pa-opportunities/health.html`

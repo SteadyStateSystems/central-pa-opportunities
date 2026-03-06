@@ -21,7 +21,7 @@
   <h1>CentralPA Opportunity Radar</h1>
   <div class="meta">
     <span class="pill">Items: 58</span>
-    <span class="pill">Last Updated: 3/6/2026, 6:54:45 AM</span>
+    <span class="pill">Last Updated: 3/6/2026, 7:07:40 AM</span>
   </div>
   <div id="kpis" style="display:flex;gap:8px;flex-wrap:wrap;margin:0 0 12px;">
     <span id="kpiNewToday" class="pill">New today: 0</span>
@@ -680,6 +680,14 @@
 
     const form = document.getElementById('subscribeForm');
     const status = document.getElementById('subStatus');
+    const subscribeEndpoint = "";
+
+    if (!subscribeEndpoint) {
+      if (status) status.textContent = 'Subscribe is not configured yet.';
+      const btn = form?.querySelector('button[type="submit"]');
+      if (btn) btn.disabled = true;
+    }
+
     form?.addEventListener('submit', async (e) => {
       e.preventDefault();
       const email = document.getElementById('subEmail')?.value?.trim();
@@ -687,7 +695,7 @@
       if (!email) return;
       status.textContent = 'Submitting...';
       try {
-        const res = await fetch('https://adjusted-bluejay-gratefully.ngrok-free.app/radar-subscribe', {
+        const res = await fetch(subscribeEndpoint, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json', 'ngrok-skip-browser-warning': 'true' },
           body: JSON.stringify({ email, tier })

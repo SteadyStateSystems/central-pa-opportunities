@@ -46,9 +46,9 @@ Supported event `type` values:
 ## 3) Public vs Paid Feed Safety
 Publicly published artifacts should be only:
 
-- `opportunity-radar/index.html`
-- `opportunity-radar/feed.free.json`
-- `opportunity-radar/feed.free.rss.xml`
+- `index.html`
+- `feed.free.json`
+- `feed.free.rss.xml`
 
 Do **not** publish `feed.pro.json` publicly.
 
@@ -112,9 +112,9 @@ Backend:
 
 Public page:
 
-- `https://steadystatesystems.github.io/Dispatch/opportunity-radar/`
+- `https://steadystatesystems.github.io/central-pa-opportunities/`
 
 Feeds:
 
-- `https://steadystatesystems.github.io/Dispatch/opportunity-radar/feed.free.json`
-- `https://steadystatesystems.github.io/Dispatch/opportunity-radar/feed.free.rss.xml`
+- `https://steadystatesystems.github.io/central-pa-opportunities/feed.free.json`
+- `https://steadystatesystems.github.io/central-pa-opportunities/feed.free.rss.xml`

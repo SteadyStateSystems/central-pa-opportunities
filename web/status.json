@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-06T11:54:54.713Z",
+  "generatedAt": "2026-03-06T12:07:41.363Z",
   "collect": {
-    "startedAt": "2026-03-06T11:54:42.755Z",
-    "finishedAt": "2026-03-06T11:54:45.264Z",
+    "startedAt": "2026-03-06T12:07:38.730Z",
+    "finishedAt": "2026-03-06T12:07:40.803Z",
     "totalRaw": 58,
     "activeAdapters": 6,
     "failedAdapters": 0,
@@ -51,7 +51,7 @@
   },
   "outbound": {
     "queueByStatus": {
-      "dry_run": 4
+      "queued": 4
     },
     "sentLogCount": 38
   }
