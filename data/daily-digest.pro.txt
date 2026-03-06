@@ -1,0 +1,354 @@
+CentralPA Opportunity Radar — Pro Digest
+Generated: 3/4/2026, 2:34:03 PM
+
+1) [STRONG] IT Managed Services RFP
+   Source: Dauphin County | Score: 63.3
+   Deadline: 2026-03-20 (16d)
+   Category: it_services
+   Location: Harrisburg, PA
+   Summary: County seeks managed IT support vendor
+   Link: https://example.org/rfp-1
+
+2) [STRONG] Community Facility Improvement Grant
+   Source: PA DCED | Score: 60
+   Deadline: 2026-04-15 (42d)
+   Category: community
+   Location: Central PA
+   Summary: Funding for facility upgrades
+   Link: https://example.org/grant-1
+
+3) [OPTIONAL] Community Services Block Grant (CSBG)
+   Source: PA DCED | Score: 54
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/housing-and-development/community-services/
+
+4) [OPTIONAL] Community Development Block Grant (CDBG)
+   Source: PA DCED | Score: 47.3
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs/community-development-block-grant-cdbg/
+
+5) [OPTIONAL] Feb 21 UPDATE: RFP - Institutional Healthcare Services
+   Source: Dauphin County | Score: 47.3
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/news/dc-news/2025/02/21/update--rfp----institutional-healthcare-services
+
+6) [OPTIONAL] Volunteer Emergency Services Tax Refund Program The Board of Commissioners of York County approved a property tax refund program for members of fire companies and non-profit emergency medical service providers
+   Source: York County | Score: 47.3
+   Category: procurement
+   Location: York County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://yorkcountypa.gov/Volunteer-Emergency-Services-Tax-Refund-Program
+
+7) [OPTIONAL] Keystone Opportunity Zones
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/business-assistance/keystone-opportunity-zones/
+
+8) [OPTIONAL] Business Opportunities Fund
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/business-assistance/private-financing/business-opportunities-fund/
+
+9) [OPTIONAL] Programs &#038; Funding
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs-funding/
+
+10) [OPTIONAL] Commonwealth Financing Authority (CFA)
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs-funding/commonwealth-financing-authority-cfa/
+
+11) [OPTIONAL] Compliance Resources
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs-funding/compliance-resources/
+
+12) [OPTIONAL] Investment Tracker
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs-funding/investment-tracker/
+
+13) [OPTIONAL] Local Share Assessment (LSA) Reporting
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs-funding/local-share-assessment-reporting/
+
+14) [OPTIONAL] Qualified Opportunity Zones
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs-funding/federal-funding-opportunities/qualified-opportunity-zones/
+
+15) [OPTIONAL] Coal Plant Redevelopment Playbooks
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs-funding/redevelopment-playbooks/
+
+16) [OPTIONAL] Search for Funding
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs/
+
+17) [OPTIONAL] Enterprise eGrants System
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://grants.pa.gov/Login.aspx
+
+18) [OPTIONAL] Quality Assurance
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs-funding/quality-assurance-and-operational-support/
+
+19) [OPTIONAL] Opportunity Scholarship Tax Credit Program (OSTC)
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs/opportunity-scholarship-tax-credit-program-ostc/
+
+20) [OPTIONAL] Multimodal Transportation Fund
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/programs/multimodal-transportation-fund/
+
+21) [OPTIONAL] Shapiro Administration Highlights Need to Build More Housing, Reduce Costs, ... March 2, 2026
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/newsroom/shapiro-administration-highlights-need-to-build-more-housing-reduce-costs-and-create-opportunity-for-every-pennsylvanian-during-tour-of-downtown-reading/
+
+22) [OPTIONAL] Governor Shapiro Unveils Pennsylvania’s First-Ever Housing Action Plan to ... February 12, 2026
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/newsroom/governor-shapiro-unveils-pennsylvanias-first-ever-housing-action-plan-to-build-more-housing-reduce-costs-and-create-opportunity-for-every-pennsylvanian/
+
+23) [OPTIONAL] What Pennsylvania Leaders Are Saying About Governor Shapiro’s 2026-27 Pro ... February 4, 2026
+   Source: PA DCED | Score: 40.5
+   Category: grant
+   Location: Pennsylvania
+   Summary: Potential funding/program opportunity from PA DCED source page
+   Link: https://dced.pa.gov/newsroom/what-pennsylvania-leaders-are-saying-about-governor-shapiros-2026-27-proposed-budget-that-builds-on-three-years-of-progress-cuts-costs-creates-opportunity-strengthens-public-safety-and-fu/
+
+24) [OPTIONAL] Opportunities
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities
+
+25) [OPTIONAL] Bidding Opportunities
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities/bidding-opportunities
+
+26) [OPTIONAL] Careers &amp; Employment
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities/careers-employment
+
+27) [OPTIONAL] Festivals and Special Events
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities/festivals-and-special-events
+
+28) [OPTIONAL] Small Business Loan Program
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities/small-business-loan-program
+
+29) [OPTIONAL] Things to Do
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities/things-to-do
+
+30) [OPTIONAL] Tourism
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities/tourism
+
+31) [OPTIONAL] Tourism Grant Program
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities/tourism-grant-program
+
+32) [OPTIONAL] Upcoming Events
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities/upcoming-events
+
+33) [OPTIONAL] Volunteering
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/opportunities/volunteering
+
+34) [OPTIONAL] Sep 19 Commissioners Release RFP for County Engineer
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/news/dc-news/2025/09/19/commissioner-release-rfp-for-county-engineer
+
+35) [OPTIONAL] Feb 21 UPDATE: RFP - Medication Assisted Treatment
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/news/dc-news/2025/02/21/update--rfp---medication-assisted-treatment
+
+36) [OPTIONAL] Opioid Remediation Grants Providers Encouraged to Apply for Opioid Remediation Grants
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/announcements-highlights/announcements-highlights/2023/10/12/opioid-remediation-grants
+
+37) [OPTIONAL] Opioid Remediation Grant Program to Award Settlement Funds
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/government/human-services/opioid-remediation-grant-program-to-award-settlement-funds
+
+38) [OPTIONAL] Block Grant Planning and Advisory Committee
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/government/human-services/block-grant-planning-and-advisory-committee
+
+39) [OPTIONAL] Procurement
+   Source: Dauphin County | Score: 40.5
+   Category: procurement
+   Location: Dauphin County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.dauphincounty.gov/procurement
+
+40) [OPTIONAL] Bid Postings
+   Source: Cumberland County | Score: 40.5
+   Category: procurement
+   Location: Cumberland County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.cumberlandcountypa.gov/bids.aspx
+
+41) [OPTIONAL] Career Opportunities
+   Source: Cumberland County | Score: 40.5
+   Category: procurement
+   Location: Cumberland County, PA
+   Summary: Potential procurement/bid opportunity from county source page
+   Link: https://www.cumberlandcountypa.gov/Careers
+
+42) [OPTIONAL] Search Site Content
+   Source: Grants.gov | Score: 40.5
+   Category: grant
+   Location: Pennsylvania / US
+   Summary: Potential grant opportunity from Grants.gov source page
+   Link: https://www.grants.gov/site-search-results
+
+43) [OPTIONAL] Help
+   Source: Grants.gov | Score: 40.5
+   Category: grant
+   Location: Pennsylvania / US
+   Summary: Potential grant opportunity from Grants.gov source page
+   Link: https://www.grants.gov/help/get-started/
+
+44) [OPTIONAL] Register
+   Source: Grants.gov | Score: 40.5
+   Category: grant
+   Location: Pennsylvania / US
+   Summary: Potential grant opportunity from Grants.gov source page
+   Link: https://www.grants.gov/register
+
+45) [OPTIONAL] Login
+   Source: Grants.gov | Score: 40.5
+   Category: grant
+   Location: Pennsylvania / US
+   Summary: Potential grant opportunity from Grants.gov source page
+   Link: https://www.grants.gov/search-grants#
+
+46) [OPTIONAL] Search Tips
+   Source: Grants.gov | Score: 40.5
+   Category: grant
+   Location: Pennsylvania / US
+   Summary: Potential grant opportunity from Grants.gov source page
+   Link: https://www.grants.gov/search-tips
+
+47) [OPTIONAL] Blog
+   Source: Grants.gov | Score: 40.5
+   Category: grant
+   Location: Pennsylvania / US
+   Summary: Potential grant opportunity from Grants.gov source page
+   Link: http://blog.grants.gov/
+
+48) [OPTIONAL] Twitter
+   Source: Grants.gov | Score: 40.5
+   Category: grant
+   Location: Pennsylvania / US
+   Summary: Potential grant opportunity from Grants.gov source page
+   Link: https://twitter.com/grantsdotgov
+
+49) [OPTIONAL] YouTube
+   Source: Grants.gov | Score: 40.5
+   Category: grant
+   Location: Pennsylvania / US
+   Summary: Potential grant opportunity from Grants.gov source page
+   Link: https://www.youtube.com/user/GrantsGovUS
+
+50) [OPTIONAL] Alerts
+   Source: Grants.gov | Score: 40.5
+   Category: grant
+   Location: Pennsylvania / US
+   Summary: Potential grant opportunity from Grants.gov source page
+   Link: http://grants-gov.blogspot.com/

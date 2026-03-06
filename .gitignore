@@ -1,0 +1,5 @@
+﻿node_modules/
+.env
+*.log
+data/outbound.sent.json
+data/subscribers.json

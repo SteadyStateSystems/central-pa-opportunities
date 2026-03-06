@@ -1,0 +1,58 @@
+[
+  {
+    "id": "pennbid",
+    "name": "PennBid",
+    "type": "procurement",
+    "url": "https://pennbid.bonfirehub.com/portal/",
+    "notes": "Many PA municipalities/school districts post bids here"
+  },
+  {
+    "id": "pa_emarketplace",
+    "name": "PA eMarketplace",
+    "type": "procurement",
+    "url": "https://www.emarketplace.state.pa.us/",
+    "notes": "State procurement opportunities"
+  },
+  {
+    "id": "dauphin_county",
+    "name": "Dauphin County Bids/RFP",
+    "type": "procurement",
+    "url": "https://www.dauphincounty.gov/",
+    "notes": "County purchasing/bids sections"
+  },
+  {
+    "id": "cumberland_county",
+    "name": "Cumberland County Bids",
+    "type": "procurement",
+    "url": "https://www.cumberlandcountypa.gov/",
+    "notes": "County bids/RFP pages"
+  },
+  {
+    "id": "york_county",
+    "name": "York County Bids",
+    "type": "procurement",
+    "url": "https://yorkcountypa.gov/",
+    "notes": "County contracts and purchasing"
+  },
+  {
+    "id": "pa_dced",
+    "name": "PA DCED Funding",
+    "type": "grant",
+    "url": "https://dced.pa.gov/",
+    "notes": "State economic/community funding programs"
+  },
+  {
+    "id": "grants_gov",
+    "name": "Grants.gov",
+    "type": "grant",
+    "url": "https://www.grants.gov/",
+    "notes": "Federal grants; filter by PA eligibility/keywords"
+  },
+  {
+    "id": "sba_pa",
+    "name": "SBA Pennsylvania",
+    "type": "grant",
+    "url": "https://www.sba.gov/district/philadelphia",
+    "notes": "Small business programs and notices"
+  }
+]

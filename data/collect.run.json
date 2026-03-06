@@ -1,0 +1,37 @@
+{
+  "startedAt": "2026-03-04T19:34:00.434Z",
+  "adapters": [
+    {
+      "name": "dced",
+      "ok": true,
+      "count": 19
+    },
+    {
+      "name": "dauphin",
+      "ok": true,
+      "count": 17
+    },
+    {
+      "name": "cumberland",
+      "ok": true,
+      "count": 2
+    },
+    {
+      "name": "york",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "pa_emarketplace",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "name": "grants_gov",
+      "ok": true,
+      "count": 17
+    }
+  ],
+  "total": 58,
+  "finishedAt": "2026-03-04T19:34:03.630Z"
+}

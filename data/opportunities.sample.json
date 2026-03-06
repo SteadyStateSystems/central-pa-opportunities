@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sample-001",
+    "title": "IT Managed Services RFP",
+    "source": "Dauphin County",
+    "url": "https://example.org/rfp-1",
+    "posted_at": "2026-03-01",
+    "deadline": "2026-03-20",
+    "amount_min": 50000,
+    "amount_max": 150000,
+    "category": "it_services",
+    "location": "Harrisburg, PA",
+    "eligibility_text": "Small businesses in PA",
+    "summary": "County seeks managed IT support vendor",
+    "type": "procurement"
+  },
+  {
+    "id": "sample-002",
+    "title": "Community Facility Improvement Grant",
+    "source": "PA DCED",
+    "url": "https://example.org/grant-1",
+    "posted_at": "2026-03-02",
+    "deadline": "2026-04-15",
+    "amount_min": 10000,
+    "amount_max": 75000,
+    "category": "community",
+    "location": "Central PA",
+    "eligibility_text": "Nonprofits and municipalities",
+    "summary": "Funding for facility upgrades",
+    "type": "grant"
+  }
+]

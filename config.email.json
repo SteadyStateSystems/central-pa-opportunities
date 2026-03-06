@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "dryRun": true,
+  "provider": "smtp",
+  "from": "CentralPA Opportunity Radar <no-reply@example.com>",
+  "smtp": {
+    "host": "smtp.example.com",
+    "port": 587,
+    "secure": false,
+    "user": "REPLACE_SMTP_USER",
+    "pass": "REPLACE_SMTP_PASS"
+  }
+}

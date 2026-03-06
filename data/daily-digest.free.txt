@@ -1,0 +1,44 @@
+CentralPA Opportunity Radar — Free Digest
+Generated: 3/4/2026, 2:34:03 PM
+
+1) [STRONG] IT Managed Services RFP
+   Source: Dauphin County | Score: 63.3
+   Deadline: 2026-03-20 (16d)
+   Link: https://example.org/rfp-1
+
+2) [STRONG] Community Facility Improvement Grant
+   Source: PA DCED | Score: 60
+   Deadline: 2026-04-15 (42d)
+   Link: https://example.org/grant-1
+
+3) [OPTIONAL] Community Services Block Grant (CSBG)
+   Source: PA DCED | Score: 54
+   Link: https://dced.pa.gov/housing-and-development/community-services/
+
+4) [OPTIONAL] Community Development Block Grant (CDBG)
+   Source: PA DCED | Score: 47.3
+   Link: https://dced.pa.gov/programs/community-development-block-grant-cdbg/
+
+5) [OPTIONAL] Feb 21 UPDATE: RFP - Institutional Healthcare Services
+   Source: Dauphin County | Score: 47.3
+   Link: https://www.dauphincounty.gov/news/dc-news/2025/02/21/update--rfp----institutional-healthcare-services
+
+6) [OPTIONAL] Volunteer Emergency Services Tax Refund Program The Board of Commissioners of York County approved a property tax refund program for members of fire companies and non-profit emergency medical service providers
+   Source: York County | Score: 47.3
+   Link: https://yorkcountypa.gov/Volunteer-Emergency-Services-Tax-Refund-Program
+
+7) [OPTIONAL] Keystone Opportunity Zones
+   Source: PA DCED | Score: 40.5
+   Link: https://dced.pa.gov/business-assistance/keystone-opportunity-zones/
+
+8) [OPTIONAL] Business Opportunities Fund
+   Source: PA DCED | Score: 40.5
+   Link: https://dced.pa.gov/business-assistance/private-financing/business-opportunities-fund/
+
+9) [OPTIONAL] Programs &#038; Funding
+   Source: PA DCED | Score: 40.5
+   Link: https://dced.pa.gov/programs-funding/
+
+10) [OPTIONAL] Commonwealth Financing Authority (CFA)
+   Source: PA DCED | Score: 40.5
+   Link: https://dced.pa.gov/programs-funding/commonwealth-financing-authority-cfa/

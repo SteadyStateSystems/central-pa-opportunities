@@ -1,0 +1,18 @@
+{
+  "free": {
+    "name": "Free",
+    "maxItems": 10,
+    "includeFields": ["title", "source", "score", "deadline", "link"]
+  },
+  "pro": {
+    "name": "Pro",
+    "maxItems": 50,
+    "includeFields": ["title", "source", "score", "deadline", "link", "summary", "category", "location", "tier", "deadlineDays", "staleFlag"]
+  },
+  "pro_alerts": {
+    "name": "Pro Alerts",
+    "maxItems": 100,
+    "includeFields": ["title", "source", "score", "deadline", "link", "summary", "category", "location", "tier", "deadlineDays", "staleFlag"],
+    "instantAlerts": true
+  }
+}
