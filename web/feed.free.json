@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T12:07:41.055Z",
+  "generatedAt": "2026-03-14T10:30:04.924Z",
   "tier": "free",
   "count": 10,
   "items": [
@@ -8,7 +8,7 @@
       "title": "IT Managed Services RFP",
       "source": "Dauphin County",
       "deadline": "2026-03-20",
-      "score": 70.3,
+      "score": 75.5,
       "tier": "strong",
       "url": "https://example.org/rfp-1",
       "category": "it_services",

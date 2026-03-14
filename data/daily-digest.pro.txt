@@ -1,9 +1,9 @@
 CentralPA Opportunity Radar — Pro Digest
-Generated: 3/6/2026, 7:07:41 AM
+Generated: 3/14/2026, 6:30:05 AM
 
 1) [STRONG] IT Managed Services RFP
-   Source: Dauphin County | Score: 70.3
-   Deadline: 2026-03-20 (14d)
+   Source: Dauphin County | Score: 75.5
+   Deadline: 2026-03-20 (6d)
    Category: it_services
    Location: Harrisburg, PA
    Summary: County seeks managed IT support vendor
@@ -11,7 +11,7 @@ Generated: 3/6/2026, 7:07:41 AM
 
 2) [STRONG] Community Facility Improvement Grant
    Source: PA DCED | Score: 60
-   Deadline: 2026-04-15 (40d)
+   Deadline: 2026-04-15 (32d)
    Category: community
    Location: Central PA
    Summary: Funding for facility upgrades

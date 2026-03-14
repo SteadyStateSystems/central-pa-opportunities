@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-06T12:07:41.363Z",
+  "generatedAt": "2026-03-14T10:30:05.258Z",
   "collect": {
-    "startedAt": "2026-03-06T12:07:38.730Z",
-    "finishedAt": "2026-03-06T12:07:40.803Z",
+    "startedAt": "2026-03-14T10:30:02.024Z",
+    "finishedAt": "2026-03-14T10:30:04.671Z",
     "totalRaw": 58,
     "activeAdapters": 6,
     "failedAdapters": 0,
@@ -42,7 +42,7 @@
   "opportunities": {
     "scoredTotal": 58,
     "priorityCount": 0,
-    "due7Count": 0,
+    "due7Count": 1,
     "staleCount": 0
   },
   "subscribers": {
