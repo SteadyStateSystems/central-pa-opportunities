@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-03-14T10:30:05.258Z",
+  "collect": {
+    "startedAt": "2026-03-14T10:30:02.024Z",
+    "finishedAt": "2026-03-14T10:30:04.671Z",
+    "totalRaw": 58,
+    "activeAdapters": 6,
+    "failedAdapters": 0,
+    "adapters": [
+      {
+        "name": "dced",
+        "ok": true,
+        "count": 19
+      },
+      {
+        "name": "dauphin",
+        "ok": true,
+        "count": 17
+      },
+      {
+        "name": "cumberland",
+        "ok": true,
+        "count": 2
+      },
+      {
+        "name": "york",
+        "ok": true,
+        "count": 1
+      },
+      {
+        "name": "pa_emarketplace",
+        "ok": true,
+        "count": 0
+      },
+      {
+        "name": "grants_gov",
+        "ok": true,
+        "count": 17
+      }
+    ]
+  },
+  "opportunities": {
+    "scoredTotal": 58,
+    "priorityCount": 0,
+    "due7Count": 1,
+    "staleCount": 0
+  },
+  "subscribers": {
+    "approved": 4,
+    "pending": 0
+  },
+  "outbound": {
+    "queueByStatus": {
+      "queued": 4
+    },
+    "sentLogCount": 38
+  }
+}
